@@ -1,0 +1,23 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Extreme</title>
+        <link>http://example.org/</link>
+        <description>Extreme</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>2157138033@qq.com (Extreme)</managingEditor>
+            <webMaster>2157138033@qq.com (Extreme)</webMaster><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate>
+            <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Basic Markdown Syntax</title>
+    <style>
+        html:{
+            background-
+        }
+    </style>
+    <link>http://example.org/basic-markdown-syntax/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <author>Dillon</author>
+    <guid>http://example.org/basic-markdown-syntax/</guid>
+    <description><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files.</p>]]></description>
+</item>
+</channel>
+</rss>
