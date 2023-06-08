@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>shortcodes - Tag - My New Hugo Site</title>
+        <link>http://example.org/tags/shortcodes/</link>
+        <description>shortcodes - Tag - My New Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>2157138033@qq.com (EXTREME)</managingEditor>
+            <webMaster>2157138033@qq.com (EXTREME)</webMaster><lastBuildDate>Tue, 03 Mar 2020 11:29:41 &#43;0800</lastBuildDate><atom:link href="http://example.org/tags/shortcodes/" rel="self" type="application/rss+xml" /><item>
+    <title>Theme Documentation - bilibili Shortcode</title>
+    <link>http://example.org/theme-documentation-bilibili-shortcode/</link>
+    <pubDate>Tue, 03 Mar 2020 11:29:41 &#43;0800</pubDate>
+    <author>Dillon</author>
+    <guid>http://example.org/theme-documentation-bilibili-shortcode/</guid>
+    <description><![CDATA[<a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.0" rel="noopener noreffer" target="_blank"></a>
+<p>The <code>bilibili</code> shortcode embeds a responsive video player for bilibili videos.</p>]]></description>
+</item>
+</channel>
+</rss>

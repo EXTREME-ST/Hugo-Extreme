@@ -1,0 +1,24 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>所有文章 - Extreme</title>
+        <link>http://example.org/zh-cn/posts/</link>
+        <description>所有文章 | Extreme</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>2157138033@qq.com (Copyright)</managingEditor>
+            <webMaster>2157138033@qq.com (Copyright)</webMaster><lastBuildDate>Fri, 07 Apr 2023 13:29:59 &#43;0800</lastBuildDate><atom:link href="http://example.org/zh-cn/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>这是一篇测试文章</title>
+    <link>http://example.org/test/index.html/</link>
+    <pubDate>Fri, 07 Apr 2023 13:29:59 &#43;0800</pubDate>
+    <author>Extreme</author>
+    <guid>http://example.org/test/index.html/</guid>
+    <description><![CDATA[Test 这篇文章用于测试文章发布]]></description>
+</item>
+<item>
+    <title>Markdown 基本语法</title>
+    <link>http://example.org/zh-cn/basic-markdown-syntax/</link>
+    <pubDate>Tue, 03 Mar 2020 13:29:59 &#43;0800</pubDate>
+    <author>Dillon</author>
+    <guid>http://example.org/zh-cn/basic-markdown-syntax/</guid>
+    <description><![CDATA[<p>这篇文章提供了可以在 Hugo 的文章中使用的基本 Markdown 语法示例.</p>]]></description>
+</item>
+</channel>
+</rss>
